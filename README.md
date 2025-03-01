@@ -15,7 +15,7 @@
     <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=salamafazlul&theme=algolia&hide_border=true&ring=00aeff&fire=0081bd&text_color=D3D3D3&currStreakLabel=C3C3C3&background=000000" alt="GitHub Streak Stats"/>
   </a>
   <a href="https://github.com/salamafazlul">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamafazlul&layout=compact&langs_count=10&theme=algolia&exclude_repo=templates,fhir-server-prebuilt-services&v=10&hide_border=true&title_color=00aeff&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,02344d" alt="Most Used Languages"/>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamafazlul&layout=compact&langs_count=10&theme=algolia&exclude_repo=fhir-server-prebuilt-services&v=10&hide_border=true&title_color=00aeff&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,02344d" alt="Most Used Languages"/>
   </a>
 </p>
 

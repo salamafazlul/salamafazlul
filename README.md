@@ -4,7 +4,7 @@
 <h4 align="center">Passionate IT Student | Coding the Future, One Line at a Time </h4>
 <p align="center">
   <a href="https://github.com/salamafazlul">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=salamafazlul&include_all_commits=false&count_private=true&hide_border=true&show_icons=true&line_height=20&title_color=00aeff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,02344d,000000" alt="salamafazlul's GitHub Stats"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=salamafazlul&count_private=true&hide_border=true&show_icons=true&line_height=20&title_color=00aeff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,02344d,000000" alt="salamafazlul's GitHub Stats"/>
   </a>
   <a href="https://github.com/salamafazlul">
     <img align="center" height="180em" src="https://github.com/salamafazlul/salamafazlul/blob/main/assets/stat.gif" alt="Gif"/>
